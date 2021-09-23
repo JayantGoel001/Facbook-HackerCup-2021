@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#define pcc pair<char,char>
 #define int long long int
 using namespace std;
 
